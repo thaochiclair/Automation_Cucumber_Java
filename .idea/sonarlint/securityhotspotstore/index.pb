@@ -15,7 +15,5 @@ q
 Asrc/main/java/origin/company/project/requests/RequestFactory.java,d\3\d37397d480d00a0daed464b46ba39e67cd76459e
 u
 Esrc/test/java/origin/company/project/stepDefinitions/SignUpSteps.java,b\b\bb2f3e9b01eefd3b8b1b12d364196076bc7efe20
-|
-Lsrc/test/java/origin/company/project/stepDefinitions/PerformPostRequest.java,b\0\b08063e13586f07d3c71bb9209f068c88e03750f
 t
 Dsrc/test/java/origin/company/project/stepDefinitions/LogInSteps.java,f\0\f0aee7d71a2be13cf2a019088bc72c89b873ee00
