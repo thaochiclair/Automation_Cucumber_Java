@@ -17,3 +17,5 @@ u
 Esrc/test/java/origin/company/project/stepDefinitions/SignUpSteps.java,b\b\bb2f3e9b01eefd3b8b1b12d364196076bc7efe20
 t
 Dsrc/test/java/origin/company/project/stepDefinitions/LogInSteps.java,f\0\f0aee7d71a2be13cf2a019088bc72c89b873ee00
+s
+Csrc/test/java/origin/company/project/commons/utils/RandomUtils.java,b\7\b7ea2d167605d097dc1dad7ccf357832d18c3416

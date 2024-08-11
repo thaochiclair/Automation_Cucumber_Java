@@ -15,6 +15,6 @@ public class LogInSteps extends TestBase {
 
     @And("the user should signed in successfully into the system with the {string} as {string}")
     public void theUserShouldSignedInSuccessfullyIntoTheSystemWithTheAs(String fieldName, String value) {
-        assertEquals(value, response.jsonPath().getString("user." + fieldName));
+        assertEquals(value + random , response.jsonPath().getString("user." + fieldName));
     }
 }
